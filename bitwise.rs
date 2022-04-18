@@ -1,5 +1,5 @@
-#[allow(dead_code)]
-#[allow(unused_variables)]
+#![allow(dead_code)]
+#![allow(unused_variables)]
 use std::mem;
 
 fn bitwise_logic(){
@@ -18,7 +18,7 @@ fn bitwise_logic(){
 
     let x=5;
     let x_esit_5=x==5;
-    print!("eşitlik :{}",x_esit_5);
+    println!("eşitlik :{}",x_esit_5);
 
 }
 fn main(){

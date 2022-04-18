@@ -1,5 +1,5 @@
-#[allow(dead_code)]
-#[allow(unused_variables)]
+#![allow(dead_code)]
+#![allow(unused_variables)]
 use std::mem;
 fn veriTipleri(){
     let a: u8 = 125; //u =unsigned 0-255 8 bit
